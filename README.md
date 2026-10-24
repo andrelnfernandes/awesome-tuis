@@ -322,6 +322,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager _(supports termux)_.
 - [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
+- [Xylem](https://github.com/andrelnfernandes/xylem) An XTree/ZTreeWin-style file manager with a directory tree, tagging, batch operations and a built-in terminal.
 - [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ytreenova](https://github.com/robkam/ytreenova) The XTree&trade; style file manager Unix should have had all along.
 
